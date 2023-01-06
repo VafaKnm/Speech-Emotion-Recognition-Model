@@ -1,4 +1,4 @@
-# Speech-Emotion-Recognition-Model
+# Speech Emotion Recognition Model
 
 This is a python code written in Kaggle environment for extracting audio features to build an ANN model for speech emotion recognition; You can see all descriptions inside the code.
 
